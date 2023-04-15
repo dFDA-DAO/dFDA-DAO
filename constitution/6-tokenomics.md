@@ -4,9 +4,7 @@ description: >-
   ecosystem, are created, distributed, and used.
 ---
 
-# 🪙 Tokenomics
-
-## Futarchy-Based Efficacy Trials
+# 🪙 Futarchy-Based Efficacy Trials
 
 Medical experts will receive soul-bound non-transferable deFDA Credential NFTs (FDA-CRED) will be issued to all members of the American Medical Association (AMA) and other international bodies which verify medical credentialing.
 
@@ -22,8 +20,5 @@ Medical experts can stake their token in one of three pools based on their belie
 
 If they do nothing, it will be assumed that they did not review the proposal.
 
-Post-marketing pharmacovigilance data will be collected from the participants and used to determine the relative change .
+Post-marketing pharmacovigilance data will be collected from the participants and used to determine the relative change.
 
-[**Next Revenue**](7-revenue.md) **👉**
-
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
