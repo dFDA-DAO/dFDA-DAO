@@ -1,6 +1,6 @@
 # Table of contents
 
-* [💊 The Decentralized FDA DAO](README.md)
+* [💊 The Decentralized FDA](README.md)
 * [📘 Historical Evidence Supporting Decentralized Efficacy Trials](historical-evidence-supporting-decentralized-efficacy-trials.md)
 * [☠ Problems We Seek To Address](constitution/1-introduction-and-challenges.md)
   * [💰 Clinical Research is Expensive](1-introduction-and-challenges/clinical-research-is-expensive.md)
