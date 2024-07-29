@@ -1,7 +1,8 @@
 ---
 description: >-
-  Using the combined wisdom of thousands of experts to minimize suffering and
-  maximize healthy human lifespan.
+  The mandate of the Decentralized Food and Drug Administration (deFDA) is to
+  maximize the average healthy human lifespan as measured by quality-adjusted
+  life-years (QALYs).
 cover: broken-reference
 coverY: 0
 ---
@@ -21,6 +22,22 @@ A mandate preferable to the [60 million](https://www.theworldcounts.com/populati
 3. Evidence of the success of this model will make it possible to promote adoption by other micro-nations.
 4. Evidence of the success of this model will make it possible to promote adoption by increasingly larger states.
 
+## A Futarchy-Based Meritocratic Regulatory Framework
+
+Medical experts will receive soul-bound non-transferable deFDA Credential NFTs (FDA-CRED) will be issued to all members of the American Medical Association (AMA) and other international bodies which verify medical credentialing.
+
+One deFDA fungible Reputation Token (FDA-REP) will be airdropped to holder of FDA-NFTs for each intervention that is proposed for a specified population.
+
+Medical experts can stake their token in one of three pools based on their belief for the experimental population relative to those outside the regulatory jurisdiction:
+
+1. "Uncertain Pool" - they are uncertain of the outcome of the reform
+2. "Harmful Pool" - reform will result in a relative net average DECREASE in healthspan
+3. "Helpful Pool" - reform will result in a relative net average INCREASE in healthspan
+
+If they do nothing, it will be assumed that they did not review the proposal.
+
+If the "Helpful Pool" is the majority, the proposal will be approved and implemented. Post-marketing pharmaco-vigilence data will be collected from the participants and used to determine the relative change in healthspan between affected and unaffected populations.
+
 ### Problems that Could be Solved with a New Regulatory Framework
 
 It takes over [10 years and $2.6 billion](https://www.semanticscholar.org/paper/Innovation-in-the-pharmaceutical-industry%3A-New-of-DiMasiGrabowski/3275f31c072ac11c6ca7a5260bd535720f07df41) to bring a drug to market (including failed attempts). It costs [$41k](https://www.clinicalleader.com/doc/getting-a-handle-on-clinical-trial-costs-0001) per subject in Phase III clinical trials.
@@ -29,9 +46,13 @@ The high costs lead to:
 
 **1. No Data on Unpatentable Molecules**
 
+{% content-ref url="1-introduction-and-challenges/no-data-on-unpatentable-molecules.md" %}
+[no-data-on-unpatentable-molecules.md](1-introduction-and-challenges/no-data-on-unpatentable-molecules.md)
+{% endcontent-ref %}
+
 We still know next to nothing about the long-term effects of 99.9% of the 4 pounds of over [7,000](https://www.dailymail.co.uk/health/article-8757191/Are-additives-food-making-ill.html) different synthetic or natural compounds. This is because there's only sufficient incentive to research patentable molecules.
 
-![](.gitbook/assets/chemicals-in-our-diet.png)
+![Number of Food Additives for Which We Have Long-Term Toxicology Data](.gitbook/assets/chemicals-in-our-diet.png)
 
 **2. Lack of Incentive to Discover Every Application of Off-Patent Treatments**
 
@@ -55,7 +76,7 @@ The more research studies we read, the more we realize we don't know. Nearly eve
 
 If you multiply the [166 billion](https://www.nature.com/articles/549445a) molecules with drug-like properties by the [10,000](https://www.washingtonpost.com/news/fact-checker/wp/2016/11/17/are-there-really-10000-diseases-and-500-cures/) known diseases, that's 1,162,000,000,000,000 combinations. So far, we've studied [21,000 compounds](https://www.centerwatch.com/articles/12702-new-mit-study-puts-clinical-research-success-rate-at-14-percent). That means we only know 0.000000002% of the effects left to be discovered.
 
-![](.gitbook/assets/studied-molecules-chart-no-background.png)
+![Unstudied Drugs](.gitbook/assets/studied-molecules-chart-no-background.png)
 
 ### How a DAO Regulatory Body Could Overcome Perverse Incentives
 
@@ -88,8 +109,8 @@ This means that it's only logical for regulators to reject drug applications by 
 [pre-determining-clinical-endpoints-requires-psychic-powers.md](pre-determining-clinical-endpoints-requires-psychic-powers.md)
 {% endcontent-ref %}
 
-{% content-ref url="1-introduction-and-challenges/page-1.md" %}
-[page-1.md](1-introduction-and-challenges/page-1.md)
+{% content-ref url="1-introduction-and-challenges/we-know-next-to-nothing.md" %}
+[we-know-next-to-nothing.md](1-introduction-and-challenges/we-know-next-to-nothing.md)
 {% endcontent-ref %}
 
 ###
@@ -98,7 +119,7 @@ This means that it's only logical for regulators to reject drug applications by 
 [cost-savings-from-decentralized-clinical-trials.md](cost-savings-from-decentralized-clinical-trials.md)
 {% endcontent-ref %}
 
-***
+
 
 ### **Historical Evidence in Support of Our Hypotheses**
 
