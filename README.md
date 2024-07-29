@@ -29,30 +29,7 @@ Reducing disease and increasing longevity is not the congressional mandate of th
 
 A mandate preferable to the [60 million](https://www.theworldcounts.com/populations/world/deaths) people that die every year and the [2.5 billion](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6214883/) people suffering from chronic diseases would be to **maximize the average healthy human lifespan**.
 
-## Hypotheses
-
-1. Given a clear and optimized mandate, the crowd wisdom of a large body of medical experts can produce policies that are more effective at extending healthy human lifespan than the current regulatory framework.
-2. It is possible to implement such a regulatory body in a micro-state or economic zone such as Prospera, a semi-autonomous jurisdiction in Honduras.
-3. Evidence of the success of this model will make it possible to promote adoption by other micro-nations.
-4. Evidence of the success of this model will make it possible to promote adoption by increasingly larger states.
-
-## A Futarchy-Based Meritocratic Regulatory Framework
-
-Medical experts will receive soul-bound non-transferable deFDA Credential NFTs (FDA-CRED) will be issued to all members of the American Medical Association (AMA) and other international bodies which verify medical credentialing.
-
-One deFDA fungible Reputation Token (FDA-REP) will be airdropped to holder of FDA-NFTs for each intervention that is proposed for a specified population.
-
-Medical experts can stake their token in one of three pools based on their belief for the experimental population relative to those outside the regulatory jurisdiction:
-
-1. "Uncertain Pool" - they are uncertain of the outcome of the reform
-2. "Harmful Pool" - reform will result in a relative net average DECREASE in healthspan
-3. "Helpful Pool" - reform will result in a relative net average INCREASE in healthspan
-
-If they do nothing, it will be assumed that they did not review the proposal.
-
-If the "Helpful Pool" is the majority, the proposal will be approved and implemented. Post-marketing pharmaco-vigilence data will be collected from the participants and used to determine the relative change in healthspan between affected and unaffected populations.
-
-### Problems that Could be Solved with a New Regulatory Framework
+### Problems that Could be Solved with a Decentralized Autonomous FDA
 
 It takes over [10 years and $2.6 billion](https://www.semanticscholar.org/paper/Innovation-in-the-pharmaceutical-industry%3A-New-of-DiMasiGrabowski/3275f31c072ac11c6ca7a5260bd535720f07df41) to bring a drug to market (including failed attempts). It costs [$41k](https://www.clinicalleader.com/doc/getting-a-handle-on-clinical-trial-costs-0001) per subject in Phase III clinical trials.
 
@@ -92,7 +69,7 @@ If you multiply the [166 billion](https://www.nature.com/articles/549445a) molec
 
 ![Unstudied Drugs](.gitbook/assets/studied-molecules-chart-no-background.png)
 
-### How a DAO Regulatory Body Could Overcome Perverse Incentives
+### How a Decentralized Regulatory Body Could Overcome Perverse Incentives
 
 **Overcoming Cognitive Bias Against Acts of Commission**
 
