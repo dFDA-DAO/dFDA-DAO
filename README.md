@@ -1,8 +1,7 @@
 ---
 description: >-
-  The mandate of the Decentralized Food and Drug Administration (deFDA) is to
-  maximize the average healthy human lifespan as measured by quality-adjusted
-  life-years (QALYs).
+  The mandate of the dFDA is to promote human health and safety by determining
+  the comprehensive positive and negative effects of all foods and drugs.
 cover: .gitbook/assets/dfda-header-cover.png
 coverY: 0
 layout:
@@ -23,13 +22,39 @@ layout:
 
 # 💊 The Decentralized FDA
 
-## The US FDA’s Mandate is Not to Maximize Lives Saved
+## 🧞Be Careful What You Wish For
 
-Reducing disease and increasing longevity is not the congressional mandate of the FDA. Its mandate is to ensure the “**safety and efficacy of drugs and medical devices**“. The only way to perfectly fulfill this mandate is to drive the regulatory financial barrier to develop new treatments to infinity. That would 100% guarantee that an unsafe or ineffective drug ever gets on the market again. The massive explosion in the cost of drug development is the logical consequence of this mandate.
+Imagine you met a magical genie.  Imagine you wished for it to fulfill the FDA Congressional Mandate to:&#x20;
 
-A mandate preferable to the [60 million](https://www.theworldcounts.com/populations/world/deaths) people that die every year and the [2.5 billion](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6214883/) people suffering from chronic diseases would be to **maximize the average healthy human lifespan**.
+> Ensure the safety and efficacy of drugs and medical devices
 
-### Problems that Could be Solved with a Decentralized Autonomous FDA
+It's a perfectly admirable goal! But...
+
+**Q: How could the genie PERFECTLY achieve this? 🤔**
+
+B: **Ensure that no one ever takes a new drug again.**&#x20;
+
+That would 100% guarantee that no one ever has the opportunity to take a medication that may or may not be effective.
+
+In practice, we've seen a less absolutist interpretation of the mandate. So instead of rejecting all new treatments, we have simply exponentially increased the regulatory barrier. Since 1962, when Congress imposed the current efficacy requirement, the cost of bringing a new therapy to market has increased 15X (1521%).
+
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+## The Fundamental Goal Should Be to Promote Human Health
+
+Congress created the FDA to protect and promote human health and safety. Unfortunately, the 1962 efficacy amendment has **become a significant obstacle to the work of scientists who are trying to discover new cures.**
+
+## A Better FDA Mandate
+
+☠️ [60 million](https://www.theworldcounts.com/populations/world/deaths) people die every year because we don't have adequate treatments for them.
+
+🤒 [2.5 billion](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6214883/) people suffer from chronic diseases for which we have no cures.&#x20;
+
+Q: How can we improve our wish to help these people get treatments faster?
+
+
+
+### Problems that Could be Solved with a Decentralized FDA
 
 It takes over [10 years and $2.6 billion](https://www.semanticscholar.org/paper/Innovation-in-the-pharmaceutical-industry%3A-New-of-DiMasiGrabowski/3275f31c072ac11c6ca7a5260bd535720f07df41) to bring a drug to market (including failed attempts). It costs [$41k](https://www.clinicalleader.com/doc/getting-a-handle-on-clinical-trial-costs-0001) per subject in Phase III clinical trials.
 
@@ -69,7 +94,7 @@ If you multiply the [166 billion](https://www.nature.com/articles/549445a) molec
 
 ![Unstudied Drugs](.gitbook/assets/studied-molecules-chart-no-background.png)
 
-### How a Decentralized Regulatory Body Could Overcome Perverse Incentives
+### How a Decentralized FDA Could Overcome Perverse Incentives
 
 **Overcoming Cognitive Bias Against Acts of Commission**
 
@@ -112,7 +137,7 @@ This means that it's only logical for regulators to reject drug applications by 
 
 
 
-### **Historical Evidence Suggesting That Crowdsourcing**&#x20;
+### **Historical Evidence Suggesting That Crowdsourcing Clinical Research Works**
 
 There is compelling historical evidence suggesting that large scale efficacy-trials based on real-world evidence have ultimately led to better health outcomes than current pharmaceutical industry-driven randomized controlled trials.
 
