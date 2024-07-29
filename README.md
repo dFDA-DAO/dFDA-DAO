@@ -5,7 +5,7 @@ description: >-
   life-years (QALYs).
 ---
 
-# 💊 The Decentralized FDA DAO
+# 💊 The Decentralized FDA
 
 ## The US FDA’s Mandate is Not to Maximize Lives Saved
 
@@ -19,22 +19,6 @@ A mandate preferable to the [60 million](https://www.theworldcounts.com/populati
 2. It is possible to implement such a regulatory body in a micro-state or economic zone such as Prospera, a semi-autonomous jurisdiction in Honduras.
 3. Evidence of the success of this model will make it possible to promote adoption by other micro-nations.
 4. Evidence of the success of this model will make it possible to promote adoption by increasingly larger states.
-
-## A Futarchy-Based Meritocratic Regulatory Framework
-
-Medical experts will receive soul-bound non-transferable deFDA Credential NFTs (FDA-CRED) will be issued to all members of the American Medical Association (AMA) and other international bodies which verify medical credentialing.
-
-One deFDA fungible Reputation Token (FDA-REP) will be airdropped to holder of FDA-NFTs for each intervention that is proposed for a specified population.
-
-Medical experts can stake their token in one of three pools based on their belief for the experimental population relative to those outside the regulatory jurisdiction:
-
-1. "Uncertain Pool" - they are uncertain of the outcome of the reform
-2. "Harmful Pool" - reform will result in a relative net average DECREASE in healthspan
-3. "Helpful Pool" - reform will result in a relative net average INCREASE in healthspan
-
-If they do nothing, it will be assumed that they did not review the proposal.
-
-If the "Helpful Pool" is the majority, the proposal will be approved and implemented. Post-marketing pharmaco-vigilence data will be collected from the participants and used to determine the relative change in healthspan between affected and unaffected populations.
 
 ### Problems that Could be Solved with a New Regulatory Framework
 
@@ -113,7 +97,7 @@ This means that it's only logical for regulators to reject drug applications by 
 [cost-savings-from-decentralized-clinical-trials.md](cost-savings-from-decentralized-clinical-trials.md)
 {% endcontent-ref %}
 
-****
+***
 
 ### **Historical Evidence in Support of Our Hypotheses**
 
