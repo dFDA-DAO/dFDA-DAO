@@ -3,8 +3,22 @@ description: >-
   The mandate of the Decentralized Food and Drug Administration (deFDA) is to
   maximize the average healthy human lifespan as measured by quality-adjusted
   life-years (QALYs).
-cover: broken-reference
+cover: .gitbook/assets/dfda-rainbow-header-image-logo.png
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 💊 The Decentralized FDA
