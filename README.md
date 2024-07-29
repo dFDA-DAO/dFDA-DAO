@@ -32,7 +32,7 @@ It's a perfectly admirable goal! But...
 
 **Q: How could the genie PERFECTLY achieve this? 🤔**
 
-B: **Ensure that no one ever takes a new drug again.**&#x20;
+A: **Ensure that no one ever takes a new drug again.**&#x20;
 
 That would 100% guarantee that no one ever has the opportunity to take a medication that may or may not be effective.
 
