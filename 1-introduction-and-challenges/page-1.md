@@ -2,7 +2,7 @@
 description: We only know 0.000000002% of what is left to be known.
 ---
 
-# ❓ What We Don't Know
+# ❓ We Know Next to Nothing
 
 We’re only 2 lifetimes from the use of the modern scientific method in medicine. Thus, it's only been applied for 0.0001% of human history. The more clinical research studies we read, the more we realize we don’t know. Nearly every study ends with the phrase "more research is needed". We know basically nothing at this point compared to what will eventually be known about the human body.
 

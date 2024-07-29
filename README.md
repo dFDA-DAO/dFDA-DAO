@@ -109,8 +109,8 @@ This means that it's only logical for regulators to reject drug applications by 
 [pre-determining-clinical-endpoints-requires-psychic-powers.md](pre-determining-clinical-endpoints-requires-psychic-powers.md)
 {% endcontent-ref %}
 
-{% content-ref url="1-introduction-and-challenges/we-know-next-to-nothing.md" %}
-[we-know-next-to-nothing.md](1-introduction-and-challenges/we-know-next-to-nothing.md)
+{% content-ref url="1-introduction-and-challenges/page-1.md" %}
+[page-1.md](1-introduction-and-challenges/page-1.md)
 {% endcontent-ref %}
 
 ###
@@ -121,7 +121,7 @@ This means that it's only logical for regulators to reject drug applications by 
 
 
 
-### **Historical Evidence in Support of Our Hypotheses**
+### **Historical Evidence Suggesting That Crowdsourcing**&#x20;
 
 There is compelling historical evidence suggesting that large scale efficacy-trials based on real-world evidence have ultimately led to better health outcomes than current pharmaceutical industry-driven randomized controlled trials.
 
