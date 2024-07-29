@@ -14,7 +14,6 @@
   * [📃 Lack of Incentive to Discover the Full Range of Applications for Off-Patent Treatments](1-introduction-and-challenges/lack-of-incentive-to-discover-the-full-range-of-applications-for-off-patent-treatments.md)
   * [🤒 People With Rare Disease are Severely Punished](1-introduction-and-challenges/people-with-rare-disease-are-severely-punished.md)
   * [🔮 Pre-Determining Clinical Endpoints Requires Psychic Powers](pre-determining-clinical-endpoints-requires-psychic-powers.md)
-* [🪙 Futarchy-Based Efficacy Trials](constitution/6-tokenomics.md)
 * [📈 Impact of Innovative Medicines on Life Expectancy](impact-of-innovative-medicines-on-life-expectancy.md)
 * [🎯 Goals](constitution/2-solution.md)
   * [🎭 More Cures and Less Lifelong Attempts at Masking Symptoms](more-cures-and-less-lifelong-attempts-at-masking-symptoms.md)
