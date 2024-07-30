@@ -26,33 +26,25 @@ layout:
 
 Imagine you met a magical genie.  Imagine you wished for it to fulfill the FDA Congressional Mandate to:&#x20;
 
-> Ensure the safety and efficacy of drugs and medical devices
-
-It's a perfectly admirable goal! But...
+> Ensure the safety and efficacy of all drugs and medical devices
 
 **Q: How could the genie PERFECTLY achieve this? 🤔**
 
-A: **Ensure that no one ever takes a new drug again.**&#x20;
+**A: Ensure that no one ever takes a new drug again.**&#x20;
 
-That would 100% guarantee that no one ever has the opportunity to take a medication that may or may not be effective.
+That would 100% guarantee that no one ever takes a medication that may or may not be effective.
 
 In practice, we've seen a less absolutist interpretation of the mandate. So instead of rejecting all new treatments, we have simply exponentially increased the regulatory barrier. Since 1962, when Congress imposed the current efficacy requirement, the cost of bringing a new therapy to market has increased 15X (1521%).
 
 <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-## The Fundamental Goal Should Be to Promote Human Health
-
-Congress created the FDA to protect and promote human health and safety. Unfortunately, the 1962 efficacy amendment has **become a significant obstacle to the work of scientists who are trying to discover new cures.**
-
-## A Better FDA Mandate
+## The Real Goal Is Human Health and Safety
 
 ☠️ [60 million](https://www.theworldcounts.com/populations/world/deaths) people die every year because we don't have adequate treatments for them.
 
 🤒 [2.5 billion](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6214883/) people suffer from chronic diseases for which we have no cures.&#x20;
 
-Q: How can we improve our wish to help these people get treatments faster?
-
-
+Congress created the FDA to protect and promote human health and safety. Unfortunately, the 1962 efficacy amendment has **become a significant obstacle to the work of scientists who are trying to discover new cures.**
 
 ### Problems that Could be Solved with a Decentralized FDA
 
