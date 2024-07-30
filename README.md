@@ -76,7 +76,7 @@ Pharmaceutical companies tend to only report "positive" results. That leads to o
 
 **5. Trials Exclude a Vast Majority of The Population**
 
-One investigation found that only [14.5%](https://www.ncbi.nlm.nih.gov/pubmed/14628985) of patients with major depressive disorder fulfilled eligibility requirements for enrollment in an antidepressant trial. Furthermore, most patient sample sizes are very small and sometimes include only 20 people.
+One investigation found that only [14.5%](https://www.ncbi.nlm.nih.gov/pubmed/14628985) of patients with major depressive disorder fulfilled the eligibility requirements for enrollment in an antidepressant trial. Furthermore, most patient sample sizes are very small and sometimes include only 20 people.
 
 **6. We Only Know 0.000000002% of What is Left to be Researched**
 
