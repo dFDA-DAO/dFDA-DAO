@@ -2,12 +2,7 @@
 description: >-
   The mandate of the dFDA is to promote human health and safety by determining
   the comprehensive positive and negative effects of all foods and drugs.
-cover: .gitbook/assets/dfda-header-cover.png
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:
