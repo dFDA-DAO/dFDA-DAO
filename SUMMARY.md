@@ -15,7 +15,7 @@
   * [🤒 People With Rare Disease are Severely Punished](1-introduction-and-challenges/people-with-rare-disease-are-severely-punished.md)
   * [🔮 Pre-Determining Clinical Endpoints Requires Psychic Powers](pre-determining-clinical-endpoints-requires-psychic-powers.md)
 * [📈 Impact of Innovative Medicines on Life Expectancy](impact-of-innovative-medicines-on-life-expectancy.md)
-* [🎯 Goals](constitution/2-solution.md)
+* [🎯 Benefits of a Decentralized Model](constitution/2-solution.md)
   * [🎭 More Cures and Less Lifelong Attempts at Masking Symptoms](more-cures-and-less-lifelong-attempts-at-masking-symptoms.md)
   * [🧐 Greater Competitive Innovation and Fewer Monopolies](greater-competitive-innovation-and-fewer-monopolies.md)
   * [👀 Lower Costs of Validated Observational Research for Efficacy](lower-costs-of-validated-observational-research-for-efficacy.md)
