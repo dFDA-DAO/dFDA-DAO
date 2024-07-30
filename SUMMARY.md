@@ -2,7 +2,7 @@
 
 * [💊 The Decentralized FDA](README.md)
 * [📘 Historical Evidence Supporting Decentralized Efficacy Trials](historical-evidence-supporting-decentralized-efficacy-trials.md)
-* [☠️ Problems We Seek To Address](constitution/1-introduction-and-challenges.md)
+* [☠️ Problems With the Current Model](constitution/1-introduction-and-challenges.md)
   * [🥫 No Data on Unpatentable Molecules](1-introduction-and-challenges/no-data-on-unpatentable-molecules.md)
   * [💰 Clinical Research is Expensive](1-introduction-and-challenges/clinical-research-is-expensive.md)
   * [🥸 Trials Often Aren't Representative of Real Patients](1-introduction-and-challenges/trials-often-arent-representative-of-real-patients.md)
