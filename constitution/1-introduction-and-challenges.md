@@ -2,11 +2,7 @@
 description: The current system of clinical research is too slow, expensive, and imprecise.
 ---
 
-# ☠ Problems We Seek To Address
-
-#### &#x20;
-
-
+# ☠️ Problems With the Current Model
 
 {% content-ref url="../1-introduction-and-challenges/no-data-on-unpatentable-molecules.md" %}
 [no-data-on-unpatentable-molecules.md](../1-introduction-and-challenges/no-data-on-unpatentable-molecules.md)
@@ -31,4 +27,3 @@ description: The current system of clinical research is too slow, expensive, and
 {% content-ref url="../1-introduction-and-challenges/trials-often-arent-representative-of-real-patients.md" %}
 [trials-often-arent-representative-of-real-patients.md](../1-introduction-and-challenges/trials-often-arent-representative-of-real-patients.md)
 {% endcontent-ref %}
-
